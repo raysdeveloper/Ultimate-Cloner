@@ -10,7 +10,7 @@
 </p>
 </p>
 </p>
-<p align="center"> A tool to clone a Discord server, including channels, categories, roles and permissions.</p>
+<p align="center"> Clone any Discord Server you want including Channels, Categories, Roles and Permissions.</p>
 ---
 
 ## Installation:
