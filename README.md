@@ -11,7 +11,6 @@
 </p>
 </p>
 <p align="center"> Clone any Discord Server you want including Channels, Categories, Roles and Permissions.</p>
----
 
 ## Installation:
 
