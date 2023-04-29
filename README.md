@@ -30,7 +30,7 @@ You can also run the script manually by cloning the repository and installing th
 
 #### Requirements:
 - [Python 3.8 ar later](https://www.python.org/downloads/)
-- Get your Discord Account Token ([tutorial here](https://www.youtube.com/watch?v=3qzpmTIQ-Gs))
+- Get your Discord Account Token ([tutorial here](https://www.youtube.com/watch?v=cNuxUvdyKkY))
 - Select a server to clone, and copy its ID (right click on the server icon > Copy ID)
 
 
@@ -49,7 +49,7 @@ You can also run the script manually by cloning the repository and installing th
 - Q: WHy i can't get the server ID?.
 - A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
 - Q: Where i cant get my Discord Account Token?.
-- A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)).
+- A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=cNuxUvdyKkY)).
 - Q: Why i got "429 Too Many Requests" errors?.
 - A: Here is the solutions
      - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
