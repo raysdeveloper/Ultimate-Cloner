@@ -46,17 +46,17 @@ You can also run the script manually by cloning the repository and installing th
 - Wait for the script to finish
 
 #### Frequently Asked Questions (FAQ)
-Q: WHy i can't get the server ID?.
-A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
-Q: Where i cant get my Discord Account Token?.
-A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)).
-Q: Why i got "429 Too Many Requests" errors?.
-A: - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
-   - Try with another Discord account.
-   - Use a VPN.
-   - Try to fork the replit project.
-Q: I still get an error where i can get a support?
-A: You can join our support server ([Here](https://discord.gg/eFgEUpqWda))
+- Q: WHy i can't get the server ID?.
+- A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
+- Q: Where i cant get my Discord Account Token?.
+- A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)).
+- Q: Why i got "429 Too Many Requests" errors?.
+- A: - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
+     - Try with another Discord account.
+     - Use a VPN.
+     - Try to fork the replit project.
+- Q: I still get an error where i can get a support?
+- A: You can join our support server ([Here](https://discord.gg/eFgEUpqWda))
 
 ## Credits:
 
