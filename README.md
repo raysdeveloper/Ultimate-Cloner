@@ -30,8 +30,8 @@ You can also run the script manually by cloning the repository and installing th
 
 #### Requirements:
 - [Python 3.8 ar later](https://www.python.org/downloads/)
-- Get your Discord token ([tutorial here](https://www.youtube.com/watch?v=3qzpmTIQ-Gs))
-- Select a server to clone, and copy its ID (right click on the server icon > Copy ID)
+- Get your Discord Account Token ([tutorial here](https://www.youtube.com/watch?v=3qzpmTIQ-Gs))
+- Select a server to clone, and copy its ID (right click on the server icon > Copy ID
 
 
 #### Installation:
@@ -40,14 +40,32 @@ You can also run the script manually by cloning the repository and installing th
 - Open a terminal in the folder
 - Run `pip install -r requirements.txt`
 - Run `python main.py` or `py main.py`
-- Enter your account token and the server ID
-<img width="300px" src="https://i.imgur.com/wZjb3XR.png">
+- Enter your Discord Account Token and the Server ID
+<img width="300px" src="https://i.imgur.com/fR91zIl.png">
+<img width="300px" src="https://i.imgur.com/lNIRFHs.png">
 - Wait for the script to finish
 
+###Frequently Asked Questions (FAQ)
+Q: WHy i can't get the server ID?.
+A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
+Q: Where i cant get my Discord Account Token?.
+A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)).
+Q: Why i got "429 Too Many Requests" errors?.
+A: - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
+   - Try with another Discord account.
+   - Use a VPN.
+   - Try to fork the replit project.
+Q: I still get an error where i can get a support?
+A: You can join our support server ([Here](https://discord.gg/eFgEUpqWda))
 
 ## Credits:
 
-Support me: [Subscribe on YouTube](https://www.youtube.com/@RaysProject_sub_confirmation=1 "Subscribe")
+Instagram: [Click Me](https://intagram.com/raysdeveloper)
+Discord: [CLick Me](https://discord.gg/eFgEUpqWda)
+Youtube: [Click Me](https://www.youtube.com/@RaysProject_sub_confirmation=1)
 
+*This project is copyrighted and protected by the MIT LICENSE*
+--
+©️ 2022 Rays Developer - All Rights Reserved.
 
 **29/04/2023.**
