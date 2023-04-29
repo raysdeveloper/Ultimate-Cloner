@@ -45,7 +45,7 @@ You can also run the script manually by cloning the repository and installing th
 <img width="300px" src="https://i.imgur.com/lNIRFHs.png">
 - Wait for the script to finish
 
-###Frequently Asked Questions (FAQ)
+#### Frequently Asked Questions (FAQ)
 Q: WHy i can't get the server ID?.
 A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
 Q: Where i cant get my Discord Account Token?.
