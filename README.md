@@ -51,7 +51,8 @@ You can also run the script manually by cloning the repository and installing th
 - Q: Where i cant get my Discord Account Token?.
 - A: You can watch the Tutorial here ([Tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)).
 - Q: Why i got "429 Too Many Requests" errors?.
-- A: - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
+- A: Here is the solutions
+     - Try the manual installation: https://github.com/raysdeveloper/Ultimate-Cloner
      - Try with another Discord account.
      - Use a VPN.
      - Try to fork the replit project.
@@ -60,9 +61,9 @@ You can also run the script manually by cloning the repository and installing th
 
 ## Credits:
 
-Instagram: [Click Me](https://intagram.com/raysdeveloper)
-Discord: [CLick Me](https://discord.gg/eFgEUpqWda)
-Youtube: [Click Me](https://www.youtube.com/@RaysProject_sub_confirmation=1)
+- Instagram: [Click Me](https://intagram.com/raysdeveloper)
+- Discord: [CLick Me](https://discord.gg/eFgEUpqWda)
+- Youtube: [Click Me](https://www.youtube.com/@RaysProject_sub_confirmation=1)
 
 *This project is copyrighted and protected by the MIT LICENSE*
 --
