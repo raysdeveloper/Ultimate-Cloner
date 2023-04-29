@@ -41,7 +41,7 @@ You can also run the script manually by cloning the repository and installing th
 - Run `pip install -r requirements.txt`
 - Run `python main.py` or `py main.py`
 - Enter your account token and the server ID
-<img width="300px" src="https://imgur.com/a/lkHnO9Q">
+<img width="300px" src="https://i.imgur.com/wZjb3XR.png">
 - Wait for the script to finish
 
 
