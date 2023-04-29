@@ -7,7 +7,6 @@
 <a href="https://www.youtube.com/@RaysProject_?sub_confirmation=1">
 <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://discord.gg/eFgEUpqWda" alt="Support and Discussion server">
-<img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 </p>
 </p>
