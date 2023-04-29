@@ -21,7 +21,7 @@
 You can use [Repl.it](https://replit.com/) to run the script without installing anything.
 Click the button below to run it on Repl.it.
 
-[![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@LAW1337/DiscordServerCloner-20)
+[![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@RaysMC/Ultimate-Cloner)
 
 
 - ### Manual Installation
@@ -39,20 +39,15 @@ You can also run the script manually by cloning the repository and installing th
 - Extract the ZIP file
 - Open a terminal in the folder
 - Run `pip install -r requirements.txt`
-- Run `python main.py`
-- Enter your token and the server ID
-<img width="300px" src="https://i.imgur.com/prK9yR4.png">
+- Run `python main.py` or `py main.py`
+- Enter your account token and the server ID
+<img width="300px" src="https://imgur.com/a/lkHnO9Q">
 - Wait for the script to finish
 
 
 ## Credits:
 
-Inspired by several older Discord Cloner.
-
-Edited by:
-[LAW-Tutorials](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg "LAW-Tutorials")
-
-Support me: [Follow on YouTube](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1 "Follow")
+Support me: [Subscribe on YouTube](https://www.youtube.com/@RaysProject_sub_confirmation=1 "Subscribe")
 
 
-**05/03/2023.**
+**29/04/2023.**
