@@ -12,9 +12,16 @@
 </p>
 <p align="center"> Clone any Discord Server you want including Channels, Categories, Roles and Permissions.</p>
 
-## Installation:
+##💫 Features
+   - Clone Categories
+   - Clone Channels
+   - Clone Roles
+   - Clone Permissions
+   - Clone Emojis
 
-- ### Automatic Installation
+## 💾 Installation:
+
+- ###🤖 Automatic Installation
 
 #### Using Repl.it
 You can use [Repl.it](https://replit.com/) to run the script without installing anything.
@@ -23,17 +30,17 @@ Click the button below to run it on Repl.it.
 [![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@RaysMC/Ultimate-Cloner)
 
 
-- ### Manual Installation
+- ###👨 Manual Installation
 You can also run the script manually by cloning the repository and installing the dependencies.
 
 
-#### Requirements:
+####💻 Requirements:
 - [Python 3.8 ar later](https://www.python.org/downloads/)
 - Get your Discord Account Token ([tutorial here](https://www.youtube.com/watch?v=cNuxUvdyKkY))
 - Select a server to clone, and copy its ID (right click on the server icon > Copy ID)
 
 
-#### Installation:
+####🐾 Step by Step:
 - Click on Code > Download ZIP
 - Extract the ZIP file
 - Open a terminal in the folder
@@ -44,7 +51,7 @@ You can also run the script manually by cloning the repository and installing th
 <img width="300px" src="https://i.imgur.com/lNIRFHs.png">
 - Wait for the script to finish
 
-#### Frequently Asked Questions (FAQ)
+####❓ Frequently Asked Questions (FAQ)
 - Q: WHy i can't get the server ID?.
 - A: You must activate Developer Mode in the settings on your account ([Tutorial](https://youtu.be/Akturol-8o4)).
 - Q: Where i cant get my Discord Account Token?.
@@ -58,7 +65,7 @@ You can also run the script manually by cloning the repository and installing th
 - Q: I still get an error where i can get a support?
 - A: You can join our support server ([Here](https://discord.gg/eFgEUpqWda))
 
-## Credits:
+##©️ Credits:
 
 - Instagram: [Click Me](https://intagram.com/raysdeveloper)
 - Discord: [CLick Me](https://discord.gg/eFgEUpqWda)
