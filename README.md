@@ -12,13 +12,6 @@
 </p>
 <p align="center"> Clone any Discord Server you want including Channels, Categories, Roles and Permissions.</p>
 
-##💫 Features
-   - Clone Categories
-   - Clone Channels
-   - Clone Roles
-   - Clone Permissions
-   - Clone Emojis
-
 ## 💾 Installation:
 
 - ###🤖 Automatic Installation
@@ -50,6 +43,13 @@ You can also run the script manually by cloning the repository and installing th
 <img width="300px" src="https://i.imgur.com/fR91zIl.png">
 <img width="300px" src="https://i.imgur.com/lNIRFHs.png">
 - Wait for the script to finish
+
+##💫 Features
+   - Clone Categories
+   - Clone Channels
+   - Clone Roles
+   - Clone Permissions
+   - Clone Emojis
 
 ####❓ Frequently Asked Questions (FAQ)
 - Q: WHy i can't get the server ID?.
